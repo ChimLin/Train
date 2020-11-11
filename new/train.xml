@@ -1,0 +1,56 @@
+<resource xmlns='http://da-ra.de/schema/kernel-4' xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xsi:schemaLocation="http://da-ra.de/schema/kernel-4 http://www.da-ra.de/fileadmin/media/da-ra.de/Technik/4.0/dara.xsd">
+  <resourceType>Dataset</resourceType>
+  <resourceIdentifier>
+      <identifier>2220092</identifier>
+      <currentVersion>1</currentVersion>
+  </resourceIdentifier>
+  <titles>
+      <title>
+         <language>de</language>
+         <titleName>Gesundheit in Deutschland aktuell 2010 (GEDA 2010)</titleName>
+      </title>
+  </titles>
+  <creators>
+      <creator>
+         <person>
+            <firstName>Cornelia</firstName>
+            <middleName/>
+            <lastName>Lange</lastName>
+         </person>
+      </creator>
+      <creator>
+         <person>
+            <firstName>Rüdiger</firstName>
+            <middleName/>
+            <lastName>Dölle</lastName>
+         </person>
+      </creator>
+      <creator>
+         <institution>
+            <institutionName>Robert Koch-Institut, Abteilung für Epidemiologie und Gesundheitsmonitoring</institutionName>
+         </institution>
+      </creator>
+  </creators>
+  <dataURLs>
+      <dataURL>http://www.geda-studie.de/deutsch/gesundheitsstudie/geda-2010.html</dataURL>
+  </dataURLs>
+  <doiProposal>10.7797/27-200910-1-1-1</doiProposal>
+  <publicationDate>
+      <date>2012-08-01</date>
+  </publicationDate>
+  <availability>
+      <availabilityType>Delivery</availabilityType>
+      <availabilityFree>
+         <language>de</language>
+         <freetext>Daten und Dokumente sind für die akademische Forschung und Lehre freigegeben. Der Datenzugang erfolgt entweder über die Bereitstellung eines Public Use Files auf CD-ROM oder über einen On-Site-Zugang, d.h. die Daten können an einem Gastwissenschaftlerarbeitsplatz im RKI nach Absprache und Unterzeichnung eines gesonderten Vertrages analysiert werden.</freetext>
+      </availabilityFree>
+  </availability>
+  <resourceLanguage>deu</resourceLanguage>
+  <relations>
+      <relation>
+         <identifier>10.7797/27-200910-1-1-2</identifier>
+         <identifierType>DOI</identifierType>
+         <relationType>IsPreviousVersionOf</relationType>
+      </relation>
+  </relations>
+</resource>
